@@ -1,0 +1,57 @@
+h1 {
+    text-align: center;
+}
+/* targeted H1 tag and centered text */
+
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+/* the three styles above are targeted by their class names which were named for their respective colors*/
+
+
+.big {
+    font-size: x-large;
+}
+
+.tiny {
+    font-size: x-small;
+}
+/* the two styles are targeted by their class names which were named for their respective sizes */
+
+
+.centered {
+    text-align: center;
+}
+/* targeted class "centered" to center */
+
+
+.bold {
+    font-weight: bold;
+}
+/* targeted class "bold" to make text bold */
+
+
+.multi {
+    font-size: x-large;
+    color: orange;
+    font-weight: bold;
+}
+/* targeted class "multi" to make text big, orange, and bold */
+
+
+.font {
+    font-family: garamond;
+}
+.styledFont {
+    color: green;
+    font-weight: bold;
+}
