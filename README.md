@@ -1,5 +1,9 @@
 # StyleThisPage
 
+## Introduction
+
+This was a pretty straightforward and simple assignment.  A fun little refresher in simple CSS styling.
+
 ## Instructions
 
 1. Create two files in VS Code and save them to your computer. One file should be called index.html, and the other should be called style.css. These should be in the same folder or directory. You can name this folder something like css-practice.
@@ -18,3 +22,9 @@
 
 **BONUS**  
 Revisit your fan page from the last assignment and add some styles to it using CSS.
+
+## Conclusion
+
+This was a fun refresher in styling with CSS. Below is a screen grab of my page demonstrating the results of my styling.
+
+![StyleThisPage](assets/Style.SS.png)
